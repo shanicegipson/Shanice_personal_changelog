@@ -1,4 +1,4 @@
-#Personal Change Log
+# Personal Change Log
 
-##Monday, November 4, 2019
-*Worked on code challenge
+## Monday, November 4, 2019
+* Worked on code challenge
