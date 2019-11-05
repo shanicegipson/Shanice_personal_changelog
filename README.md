@@ -2,3 +2,4 @@
 
 ## Monday, November 4, 2019
 * Worked on code challenge
+* Added to Gratitude/Daily Journal
