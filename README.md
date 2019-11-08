@@ -5,10 +5,13 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Worked on code challenge
 * Added to Gratitude/Daily Journal
 
-
 ## Tuesday, November 5, 2019
 * Worked on code Challenge
 
 ## Wednesday, November 6, 2019
 * Worked on code challenge
 * Attended Bible Study
+
+## Thursday, November7, 2019
+* Worked on code challenge
+* Added to Gratitude/Daily Journal
