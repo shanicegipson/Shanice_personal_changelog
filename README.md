@@ -12,6 +12,6 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Worked on code challenge
 * Attended Bible Study
 
-## Thursday, November7, 2019
+## Thursday, November 7, 2019
 * Worked on code challenge
 * Added to Gratitude/Daily Journal
