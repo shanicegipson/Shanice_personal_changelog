@@ -10,8 +10,16 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 
 ## Wednesday, November 6, 2019
 * Worked on code challenge
+* Walked for 30 mins
 * Attended Bible Study
 
 ## Thursday, November 7, 2019
 * Worked on code challenge
+* Walked for 30 mins
+* Added to Gratitude/Daily Journal
+
+## Friday, November 8, 2019
+* Worked on code challenge
+* Finished **One** application for code challenge (on to the second problem)
+* Walked for 30 mins
 * Added to Gratitude/Daily Journal
