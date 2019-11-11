@@ -25,3 +25,16 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Walked for 30 mins
 * Added to Gratitude/Daily Journal
 * Read Why We Can't Wait
+
+## Saturday, November 9, 2019
+* Worked on code challenge
+* Mentored the first time Coding & Cocktails!
+
+## Sunday, November 10, 2019
+* Worked on code challenge
+* Finished **One** application for code challenge (on to the second problem)
+* Walked for 30 mins
+* Added to Gratitude/Daily Journal
+* Read Why We Can't Wait
+
+
