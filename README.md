@@ -37,4 +37,6 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Accepted Director of Mentors with We Code KC! 
 * Worked on code challenge
 
-
+## Monday, November 11, 2019
+* COMPLETED code challenge
+* Added to Gratitude/Daily Journal
