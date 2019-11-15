@@ -40,3 +40,18 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 ## Monday, November 11, 2019
 * COMPLETED code challenge
 * Added to Gratitude/Daily Journal
+
+## Tuesday, November 12, 2019
+* Prepared for and went to interview
+
+## Wednesday, November 13, 2019
+* Took care to shop
+* Got storage unit
+* Moved big furniture into storage
+
+## Thursday, November 14, 2019
+* Cleaned and packed
+
+## Friday, November 15, 2019
+* Went to part-time job
+* Applied for scholarship
