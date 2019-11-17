@@ -51,7 +51,13 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 
 ## Thursday, November 14, 2019
 * Cleaned and packed
+* WITI Speed Mentoring Meetup
 
 ## Friday, November 15, 2019
 * Went to part-time job
 * Applied for scholarship
+
+## Saturday, November 16, 2019
+* Mentored at We Code KC
+* Cleaned Dishes
+* Spent time with niece
