@@ -61,3 +61,17 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Mentored at We Code KC
 * Cleaned Dishes
 * Spent time with niece
+
+## Sunday, November 17, 2019
+* Washed Laundry Unpacked
+
+## Monday, November 18, 2019
+* Went to part-time job
+
+## Tuesday, November 19, 2019
+* Self care day
+
+## Wednesday, November 20, 2019
+* Attended Alum Scrum
+* Went to part-time job
+* Applied to 2 jobs
