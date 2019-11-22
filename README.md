@@ -75,3 +75,8 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Attended Alum Scrum
 * Went to part-time job
 * Applied to 2 jobs
+
+## Wednesday, November 20, 2019
+* Went to part-time job
+* Applied to 7 jobs
+* Networked
