@@ -76,7 +76,7 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Went to part-time job
 * Applied to 2 jobs
 
-## Thursday, November 20, 2019
+## Thursday, November 21, 2019
 * Went to part-time job
 * Applied to 7 jobs
 * Networked
