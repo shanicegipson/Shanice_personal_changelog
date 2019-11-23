@@ -80,3 +80,7 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Went to part-time job
 * Applied to 7 jobs
 * Networked
+
+## Friday, November 22, 2019
+* Went to part-time job
+* Applied to 2 jobs
