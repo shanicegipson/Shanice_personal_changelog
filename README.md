@@ -84,3 +84,27 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 ## Friday, November 22, 2019
 * Went to part-time job
 * Applied to 2 jobs
+
+## Saturday, November 23, 2019
+* Finalized cleaning and moving out of apartment
+
+## Sunday, November 24, 2019
+* Finalized cleaning and moving out of apartment
+
+## Monday, November 25, 2019
+* Self care day
+* Walk through apartment
+
+## Tuesday, November 26, 2019
+* Went to part-time job
+* Applied to 2 jobs
+
+## Wednesday, November 27, 2019
+* Went to part-time job
+* Applied to jobs
+
+## Thursday November 28, 2019
+* Happy Thanksgiving
+
+## Friday, November 29, 2019
+* Applied to jobs
