@@ -103,7 +103,7 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 * Went to part-time job
 * Applied to jobs
 
-## Thursday November 28, 2019
+## Thursday, November 28, 2019
 * Happy Thanksgiving
 
 ## Friday, November 29, 2019
