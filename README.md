@@ -108,3 +108,7 @@ This is a personal changelog to for the [github 30 day challenge](https://medium
 
 ## Friday, November 29, 2019
 * Applied to jobs
+
+## Saturday, November 30, 2019
+* Applied to jobs
+* Added to Gratitude/Daily Journal
